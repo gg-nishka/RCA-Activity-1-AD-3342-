@@ -1,7 +1,7 @@
 # Student Marks Prediction using Multiple Linear Regression
 
 ## Activity 1 – Regression and Classification Algorithms (CIE 2)
-
+Submission GitHub ID: https://github.com/complexiota.
 ## 1. Project Overview
 This project uses **Multiple Linear Regression** to predict a student's marks based on study hours and attendance. The goal is to understand how more than one numerical feature can influence a continuous output (marks).
 
